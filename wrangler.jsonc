@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "openapi-temp",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "openapi-temp-db",
+			"database_id": "7c9c0c0f-a271-48b1-94bf-1fd96cf66281"
+		}
+	]
+}
